@@ -1,16 +1,21 @@
-## Hi there 👋
+## Md. Tarik Jamil
 
-<!--
-**tarikjamilhere04-collab/tarikjamilhere04-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year civil engineering undergraduate at Islamic University of
+Technology (IUT), Bangladesh. I work on microscopic traffic simulation
+and driver behaviour in heterogeneous, non-lane-based traffic.
 
-Here are some ideas to get you started:
+**Currently:** finishing an undergraduate thesis testing whether PTV
+Vissim reproduces the behaviour of real non-lane-based traffic, using
+vehicle trajectories extracted from video of an arterial in Dhaka.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Interests:** microscopic traffic flow modelling · driver behaviour in
+mixed traffic · trajectory extraction and model calibration · validation
+methodology · surrogate safety measures.
+
+**Tools:** PTV Vissim · SUMO · OpenPaths CUBE · Python (numpy, pandas,
+scipy, matplotlib) · ETABS · SAP2000 · PLAXIS 2D · EPANET · AutoCAD
+
+Seeking PhD / MSc research positions in transportation engineering from
+Fall 2027.
+
+email : tarikjamilhere.04@gmail.com
