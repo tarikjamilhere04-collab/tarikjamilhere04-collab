@@ -10,8 +10,8 @@ and driver behaviour in heterogeneous, non-lane-based traffic.
 mixed traffic , trajectory extraction and model calibration , validation
 methodology , surrogate safety measures.
 
-**Tools:** PTV Vissim · SUMO · OpenPaths CUBE · Python (numpy, pandas,
-scipy, matplotlib) · ETABS · SAP2000 · PLAXIS 2D · EPANET · AutoCAD
+**Tools:** PTV Vissim , SUMO , OpenPaths CUBE , Python (numpy, pandas,
+scipy, matplotlib) , ETABS , SAP2000 , PLAXIS 2D , EPANET , AutoCAD
 
 Seeking PhD / MSc research positions in transportation engineering from
 Fall 2027.
