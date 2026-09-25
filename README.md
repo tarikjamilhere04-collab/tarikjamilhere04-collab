@@ -1,12 +1,14 @@
-## Md. Tarik Jamil
+Hi, This is Md. Tarik Jamil
 
-Civil engineering undergraduate at Islamic University of
-Technology (IUT), Bangladesh. I work on microscopic traffic simulation
+I am a graduate civil engineering student from Islamic University of
+Technology (IUT), Bangladesh.
+
+I enjoy working on microscopic traffic simulation
 and driver behaviour in heterogeneous, non-lane-based traffic.
 
-**Interests:** microscopic traffic flow modelling · driver behaviour in
-mixed traffic · trajectory extraction and model calibration · validation
-methodology · surrogate safety measures.
+**Interests:** microscopic traffic flow modelling , driver behaviour in
+mixed traffic , trajectory extraction and model calibration , validation
+methodology , surrogate safety measures.
 
 **Tools:** PTV Vissim · SUMO · OpenPaths CUBE · Python (numpy, pandas,
 scipy, matplotlib) · ETABS · SAP2000 · PLAXIS 2D · EPANET · AutoCAD
